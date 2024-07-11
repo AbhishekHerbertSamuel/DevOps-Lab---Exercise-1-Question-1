@@ -8,3 +8,7 @@ Team Members:
 1. Abhishek Herbert Samuel
 2. Aman Bhat
 3. Kakaraparty Sashank Kumar
+
+Purpose:
+This is for our final year project as students of Shiv Nadar University, Chennai.
+
