@@ -7,8 +7,12 @@ Sudden infant death syndrome, sometimes known as cot death, is the sudden unexpl
 Team Members:
 1. Abhishek Herbert Samuel
 2. Aman Bhat
+<<<<<<< HEAD
 3. Kakaraparty Sashank Kumar
 
 Purpose:
 This is for our final year project as students of Shiv Nadar University, Chennai.
 
+=======
+3. Kakaraparty Sashank Kumar
+>>>>>>> 3520d89... Updated ReadMe.txt with additional content
